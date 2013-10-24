@@ -31,7 +31,7 @@ projectFilesBackup
 .dist
 
 /core/client/tpl/hbs-tpl.js
-/core/client/assets/css
+#/core/client/assets/css
 .sass-cache/
 /core/client/assets/sass/config.rb
 /core/client/assets/sass/layouts/config.rb
@@ -54,7 +54,7 @@ CHANGELOG.md
 # Casper generated files
 /core/test/functional/*.png
 
-config.js
+#config.js
 
 # Built asset files
-/core/built
+#/core/built
