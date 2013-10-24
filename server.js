@@ -1,1 +1,1 @@
-var GhostServer = require('/index');
+var GhostServer = require('./index');
